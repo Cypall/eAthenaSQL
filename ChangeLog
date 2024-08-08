@@ -1,0 +1,17 @@
+ChangeLog
+
+--------------------------------------------------------------------
+Mysql_char019 by hack (2004-2-15)
+
+* Add support to Mod0803, should support mod0807
+* Use 'id' as the primary key in cart_inventory, inventory, storage
+* Store party.txt, guild.txt, castle.txt into mysql
+   Use char-upgrade.sql to upgrade from old db
+   Use char.sql to create new db
+* Remove 'delayed' in insert statements
+* char-converter is used to convert *.txt to mysql, 
+   but guild&party is not supported
+* login-server unchanged
+
+Notice : You will lost all party&guild information!!!
+

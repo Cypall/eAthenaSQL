@@ -1,0 +1,36 @@
+http://sacredangelro.com/svn/
+------------------
+eAthena SVN Release [Stable]
+
+Revision - 11464 Cygwin (compiled on 4.1.20)
+
+eAthena SQL
+
+eAthena TXT
+
+
+eAthena SVN Release [Trunk]
+
+Revision - 11464 Cygwin (compiled on 4.1.20)
+
+eAthena SQL
+
+eAthena TXT
+
+
+Visual C++ 2005 - Native Win32
+
+eAthena SVN Stable Release - Revision 11464
+
+eAthena SQL
+
+eAthena TXT
+
+
+Visual C++ 2005 - Native Win32
+
+eAthena SVN Trunk Release - Revision 11464
+
+eAthena SQL
+
+eAthena TXT
